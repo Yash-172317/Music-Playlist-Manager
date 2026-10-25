@@ -26,6 +26,10 @@ Each node stores song information and has `prev` and `next` pointers.
 3. Run the program and follow the menu options.
 
 ## Academic Details
+student Name :- Yash Vijay Jagtap
+Roll no:- 145
+div:- A
 Subject: Data Structures and Algorithms  
 Case Study: CCE-2 — Music Playlist Manager  
 Department: Electronics and Computer Engineering
+
