@@ -27,9 +27,15 @@ Each node stores song information and has `prev` and `next` pointers.
 
 ## Academic Details
 student Name :- Yash Vijay Jagtap
+<br>
 Roll no:- 145
+<br>
 div:- A
+<br>
 Subject: Data Structures and Algorithms  
+<br>
+Prof. :-S.B.Rahane
+<br>
 Case Study: CCE-2 — Music Playlist Manager  
 Department: Electronics and Computer Engineering
 
