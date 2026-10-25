@@ -33,7 +33,6 @@ Roll no:- 145
 div:- A
 <br>
 Subject: Data Structures and Algorithms  
-<br>
 Prof. :-S.B.Rahane
 <br>
 Case Study: CCE-2 — Music Playlist Manager  
